@@ -27,7 +27,7 @@ public void pop()
 if(top<=4)
 System.out.println("underflow");
 else
-System.out.println("item popped");
+System.out.println("Malarvizhi");
 top--;
 }
 }
